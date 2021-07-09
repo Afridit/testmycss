@@ -1,0 +1,40 @@
+h1, h2 {border-bottom: 1px  solid black; }
+		body {background-color: rgb(134, 203, 226); 
+          font-family: verdana, graneva, arial black;
+          font-weight: bolder; }
+		h1, h2 { color: navy; }
+		
+		p.white1  { color:white; font-size: 25px; font-family: helvetica; text-align: center;  }
+		p.white2 { color:white; font-size: 25px; font-family: helvetica; }
+
+		.underline { text-decoration: overline underline }
+
+	p.extra {
+	    font-size: 23px ;
+	    line-height: 1.5em ;
+		background-color: white;
+		padding: 25px ;
+		border-color: black ;
+	    border-width: 3px ;
+	    border-style: dashed; 
+	    margin: 20px ; 
+	    margin-top: 50px ; 
+	    margin-right: 300px ; 
+	    margin-left: 300px ;
+	    padding-left: 50px;
+	    background-image: url(third.jpg);
+	    border-radius: 10px }
+
+	      .imagec {
+           
+           display: block;
+           margin-left: auto;
+           margin-right: auto;
+           padding: 5px;
+           background-color: silver;
+           border-color: black ;
+	       border-width: 3px ;
+	       border-style: solid; 
+           
+
+	      }
